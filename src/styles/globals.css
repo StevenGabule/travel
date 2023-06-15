@@ -95,12 +95,15 @@ p {
 .blue {
   background: rgb(65, 134, 255);
 }
+
 .green {
   background: rgb(3, 170, 0);
 }
+
 .orange {
   background: rgb(255, 135, 75);
 }
+
 .custom {
   background: linear-gradient(28deg, blue, red, green);
 }
